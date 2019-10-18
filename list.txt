@@ -1,0 +1,10 @@
+
+https://blog.indizr.com/rss/
+https://english.alarabiya.net/.mrss/en.xml
+https://slate.com/feeds/all.rss
+https://slate.com/feeds/business.rss
+https://slate.com/feeds/culture.rss
+https://slate.com/feeds/human-interest.rss
+https://slate.com/feeds/news-and-politics.rss
+https://slate.com/feeds/technology.rss
+https://www.androidpolice.com/feed/
