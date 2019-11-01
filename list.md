@@ -32,6 +32,7 @@ https://www.latimes.com/politics/rss2.0.xml
 https://www.latimes.com/science/rss2.0.xml
 https://www.latimes.com/sports/rss2.0.xml
 https://www.latimes.com/world-nation/rss2.0.xml
+http://www.npr.org/rss/podcast.php?id=500005
 https://www.smashingmagazine.com/feed/
 https://www.smithsonianmag.com/rss/innovation/
 https://www.smithsonianmag.com/rss/latest_articles/
